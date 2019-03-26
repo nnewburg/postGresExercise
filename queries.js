@@ -18,3 +18,4 @@ function lookUpPeople(client, name) {
 }
 
 exports.lookUpPeople = lookUpPeople;
+
